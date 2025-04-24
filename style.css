@@ -1,0 +1,18 @@
+body{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background-color: rgb(90, 83, 83);
+padding: 20px;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0; 
+}
+
+.search-box {
+    text-align: center;
+    margin-bottom: 30px;
+
+}
+
+#searchImput
